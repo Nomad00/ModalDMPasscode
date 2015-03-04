@@ -1,0 +1,14 @@
+PODS:
+  - DMPasscode (1.3.0)
+
+DEPENDENCIES:
+  - DMPasscode (from `./`)
+
+EXTERNAL SOURCES:
+  DMPasscode:
+    :path: ./
+
+SPEC CHECKSUMS:
+  DMPasscode: ddf49d4429a4d4c589d3ebf638408a44d7ea006a
+
+COCOAPODS: 0.34.2
